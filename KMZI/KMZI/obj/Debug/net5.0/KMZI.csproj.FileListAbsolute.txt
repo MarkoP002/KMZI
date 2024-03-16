@@ -1,0 +1,16 @@
+C:\Users\Marko\source\repos\KMZI\KMZI\bin\Debug\net5.0\KMZI.exe
+C:\Users\Marko\source\repos\KMZI\KMZI\bin\Debug\net5.0\KMZI.deps.json
+C:\Users\Marko\source\repos\KMZI\KMZI\bin\Debug\net5.0\KMZI.runtimeconfig.json
+C:\Users\Marko\source\repos\KMZI\KMZI\bin\Debug\net5.0\KMZI.runtimeconfig.dev.json
+C:\Users\Marko\source\repos\KMZI\KMZI\bin\Debug\net5.0\KMZI.dll
+C:\Users\Marko\source\repos\KMZI\KMZI\bin\Debug\net5.0\ref\KMZI.dll
+C:\Users\Marko\source\repos\KMZI\KMZI\bin\Debug\net5.0\KMZI.pdb
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.AssemblyInfo.cs
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.dll
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\ref\KMZI.dll
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.pdb
+C:\Users\Marko\source\repos\KMZI\KMZI\obj\Debug\net5.0\KMZI.genruntimeconfig.cache
